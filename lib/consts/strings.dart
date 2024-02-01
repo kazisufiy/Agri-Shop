@@ -1,0 +1,17 @@
+const appname = "Agri Shop";
+const appversion = "Version 1.0.0";
+const email = "Email";
+const emailHint = "admin@gmail.com";
+const password = "Password";
+const passwordHint = "********";
+const retypePassword = "Retype Password";
+const name = "Name";
+const nameHint = "Admin";
+const forgetPass = "Forget Password";
+const login = "Log In";
+const signup = "Sign Up";
+const createNewAccount = "or , create a new account!";
+const liginWith = "Log In with";
+const privacyPolicy = "Privacy Policy";
+const termAndCond = "Terms and Condition";
+const alradyHaveAccount = "Alrady Have an account?";
