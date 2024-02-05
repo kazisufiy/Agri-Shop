@@ -15,3 +15,20 @@ const liginWith = "Log In with";
 const privacyPolicy = "Privacy Policy";
 const termAndCond = "Terms and Condition";
 const alradyHaveAccount = "Alrady Have an account?";
+
+const home = "Home" , categories = "Categories" , cart = "Cart" , account = "Account";
+
+const searchanything = "Search anything...",
+      todayDeal = "Today's Deal",
+      flashsale = "Flash Sale",
+      topSellers = "Top Sellers",
+      brand = "Brand",
+      topCategories = "Top Categories",
+      womenDress = "Women Dress",
+      girlsWatches = "Girls Watches",
+      mobilePhone = "Mobile Phone",
+      boysGlasses = "Boys Glasses",
+      tShirts ="TShirts",
+      girlsDress = "Girls Dresses",
+      featuredProducts = "Featured Products",
+      featuredCategories = "Featured Categories";
